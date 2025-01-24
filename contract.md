@@ -6,7 +6,7 @@ January 23 2025
 
 # Contract Grades – “A” Contract
 
-I, `Yitong Wang`, agree to :
+I, Yitong Wang, agree to :
 
 1)  Earn “Satisfactory” on 11 self-paced lab assignments on the schedule
     specified below.
