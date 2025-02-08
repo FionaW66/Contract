@@ -1,6 +1,6 @@
 Grading Contract
 ================
-January 23 2025
+February 07 2025
 
 <!-- This contract is adapted from Annie Somerville's contract https://github.com/anniehsom -->
 
@@ -40,11 +40,11 @@ I, Yitong Wang, agree to :
 - [ ] Module 03, 02/03 - 02/07 : Grammar of data wrangling
 
   - Finish Lab 3 by Friday: 02/07
-  - Finish portfolio piece 1 by Friday: 02/07
 
 - [ ] Module 04, 02/10 - 02/14 : Data types and Data Transformations
 
   - Finish Lab 4 by Friday: 02/14
+  - Finish portfolio piece 1 by Friday: 02/14
 
 - [ ] Module 05, 02/17 - 02/21 : Tips for effective data visualization
 
