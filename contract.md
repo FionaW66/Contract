@@ -1,6 +1,6 @@
 Grading Contract
 ================
-February 07 2025
+March 20 2025
 
 <!-- This contract is adapted from Annie Somerville's contract https://github.com/anniehsom -->
 
@@ -66,33 +66,33 @@ I, Yitong Wang, agree to :
   - Spring break week
   - Finish Lab 8 by Friday: 03/14
 
-- [ ] Module 09, 03/17 - 03/21 : Fitting and interpreting models
+- [ ] Module 09, 03/17 - 03/21 : Data and Ethics
 
   - Finish Lab 9 by Friday: 03/21
   - Finish portfolio piece 4 by Friday: 03/21
 
-- [ ] Module 10, 03/24 - 03/28 : Overfitting and Cross validation
+- [ ] Module 10, 03/24 - 03/28 : Fitting and interpreting models
 
   - Finish Lab 10 by Friday: 03/28
 
-- [ ] Module 11, 03/31 - 04/04 : Quantifying uncertainty
+- [ ] Module 11, 03/31 - 04/04 : Overfitting and Cross validation
 
   - Finish Lab 11 by Friday: 04/04
   - Finish portfolio piece 5 by Friday: 04/04
 
-- [ ] Module 12, 04/07 - 04/11 : Base R and simulating data
+- [ ] Module 12, 04/07 - 04/11 : Quantifying uncertainty
 
   - Finish portfolio piece 6 by Friday: 04/11
 
-- [ ] Module 13, 04/14 - 04/18 : Large language models
+- [ ] Module 13, 04/14 - 04/18 : Base R and simulating data
 
   - Finish portfolio pieces 7 and 8 by Friday: 04/18
 
-- [ ] Module 14, 04/21 - 04/25 : Interactive web apps
+- [ ] Module 14, 04/21 - 04/25 : Large language models
 
   - Finish portfolio piece 9 by Friday: 04/25
 
-- [ ] Module 15, 04/28 - 05/02 : Special Topics: Machine, learn
+- [ ] Module 15, 04/28 - 05/02 : Interactive web apps
 
   - Finish portfolio piece 10 by Friday: 05/02
 

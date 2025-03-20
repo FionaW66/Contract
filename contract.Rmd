@@ -127,13 +127,13 @@ topic = c(
   #  "Spring Break",#  "",
   "Web scraping",
   "Functions",
+  "Data and Ethics",
   "Fitting and interpreting models",
   "Overfitting and Cross validation",
   "Quantifying uncertainty",
   "Base R and simulating data",
   "Large language models",
-  "Interactive web apps",
-  "Special Topics: Machine, learn"
+  "Interactive web apps"
 )
 
 ```
